@@ -1,0 +1,15 @@
+C:\Users\bubon\OneDrive\Desktop\maxNumberOfCoins\bin\Debug\net8.0\maxNumberOfCoins.exe
+C:\Users\bubon\OneDrive\Desktop\maxNumberOfCoins\bin\Debug\net8.0\maxNumberOfCoins.deps.json
+C:\Users\bubon\OneDrive\Desktop\maxNumberOfCoins\bin\Debug\net8.0\maxNumberOfCoins.runtimeconfig.json
+C:\Users\bubon\OneDrive\Desktop\maxNumberOfCoins\bin\Debug\net8.0\maxNumberOfCoins.dll
+C:\Users\bubon\OneDrive\Desktop\maxNumberOfCoins\bin\Debug\net8.0\maxNumberOfCoins.pdb
+C:\Users\bubon\OneDrive\Desktop\maxNumberOfCoins\obj\Debug\net8.0\maxNumberOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bubon\OneDrive\Desktop\maxNumberOfCoins\obj\Debug\net8.0\maxNumberOfCoins.AssemblyInfoInputs.cache
+C:\Users\bubon\OneDrive\Desktop\maxNumberOfCoins\obj\Debug\net8.0\maxNumberOfCoins.AssemblyInfo.cs
+C:\Users\bubon\OneDrive\Desktop\maxNumberOfCoins\obj\Debug\net8.0\maxNumberOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\bubon\OneDrive\Desktop\maxNumberOfCoins\obj\Debug\net8.0\maxNumberOfCoins.sourcelink.json
+C:\Users\bubon\OneDrive\Desktop\maxNumberOfCoins\obj\Debug\net8.0\maxNumberOfCoins.dll
+C:\Users\bubon\OneDrive\Desktop\maxNumberOfCoins\obj\Debug\net8.0\refint\maxNumberOfCoins.dll
+C:\Users\bubon\OneDrive\Desktop\maxNumberOfCoins\obj\Debug\net8.0\maxNumberOfCoins.pdb
+C:\Users\bubon\OneDrive\Desktop\maxNumberOfCoins\obj\Debug\net8.0\maxNumberOfCoins.genruntimeconfig.cache
+C:\Users\bubon\OneDrive\Desktop\maxNumberOfCoins\obj\Debug\net8.0\ref\maxNumberOfCoins.dll
